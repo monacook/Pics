@@ -1,3 +1,9 @@
+Description:
+A react project that searches an image and displays them. How it works is that the site ask what the user wants to look up. Press Enter and the SearchBar component fetches data from an outside API and shows a lists of records. 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
